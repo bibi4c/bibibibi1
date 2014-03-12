@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/repos/!svn/ver/18594/html5/emotipon/lib/impact
+END
+loader.js
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repos/!svn/ver/18594/html5/emotipon/lib/impact/loader.js
+END
+font.js
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/repos/!svn/ver/18594/html5/emotipon/lib/impact/font.js
+END
+collision-map.js
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/!svn/ver/18594/html5/emotipon/lib/impact/collision-map.js
+END
+game.js
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/repos/!svn/ver/18594/html5/emotipon/lib/impact/game.js
+END
+entity.js
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repos/!svn/ver/18594/html5/emotipon/lib/impact/entity.js
+END
+map.js
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/repos/!svn/ver/18594/html5/emotipon/lib/impact/map.js
+END
+impact.js
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repos/!svn/ver/18594/html5/emotipon/lib/impact/impact.js
+END
+animation.js
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/!svn/ver/18594/html5/emotipon/lib/impact/animation.js
+END
+timer.js
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/repos/!svn/ver/18594/html5/emotipon/lib/impact/timer.js
+END
+image.js
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/repos/!svn/ver/18594/html5/emotipon/lib/impact/image.js
+END
+entity-pool.js
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/!svn/ver/18594/html5/emotipon/lib/impact/entity-pool.js
+END
+system.js
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repos/!svn/ver/18594/html5/emotipon/lib/impact/system.js
+END
+sound.js
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/repos/!svn/ver/18594/html5/emotipon/lib/impact/sound.js
+END
+background-map.js
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/!svn/ver/18594/html5/emotipon/lib/impact/background-map.js
+END
+input.js
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/repos/!svn/ver/18594/html5/emotipon/lib/impact/input.js
+END
